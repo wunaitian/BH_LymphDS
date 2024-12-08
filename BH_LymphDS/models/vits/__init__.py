@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21d78cf6852488fb4558fad8865d8d6c46754c87605c8dd9fed9442b3e45e5bd
-size 405
+import torch
+from packaging import version
+
+if version.parse(torch.__version__) >= version.parse('2.0.0'):
+    from einops._torch_specific import allow_ops_in_compiled_graph
+
+    allow_ops_in_compiled_graph()
+from BH_LymphDS.models.vits.CvT_model import ConvolutionalVisionTransformer # cvt-13_384-IN-22k.
+from BH_LymphDS.models.vits.swin_model import SwinTransformer # swin_base_patch32_window7_224_in22k
