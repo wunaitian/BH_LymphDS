@@ -1,0 +1,12 @@
+.\Data\input_images\WSI-7\WSI-7-Patch-1.jpg	0
+.\Data\input_images\WSI-7\WSI-7-Patch-2.jpg	0
+.\Data\input_images\WSI-7\WSI-7-Patch-3.jpg	0
+.\Data\input_images\WSI-7\WSI-7-Patch-4.jpg	0
+.\Data\input_images\WSI-8\WSI-8-Patch-1.jpg	1
+.\Data\input_images\WSI-8\WSI-8-Patch-2.jpg	1
+.\Data\input_images\WSI-8\WSI-8-Patch-3.jpg	1
+.\Data\input_images\WSI-8\WSI-8-Patch-4.jpg	1
+.\Data\input_images\WSI-9\WSI-9-Patch-1.jpg	2
+.\Data\input_images\WSI-9\WSI-9-Patch-2.jpg	2
+.\Data\input_images\WSI-9\WSI-9-Patch-3.jpg	2
+.\Data\input_images\WSI-9\WSI-9-Patch-4.jpg	2
