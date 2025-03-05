@@ -1,6 +1,6 @@
 # BH-LymphDS
 
-Code for the paper "Deep Learning of Histopathological Images Enables Accurate Diagnosis of Frequent Lymphoma". This repository mainly contains the source code for lymphoma classification based on deep learning, which is used to extract the features of patch images. Subsequently, the multi-branch clustering-constrained attention multiple instance learning (CLAM) is employed to extract the features at the whole slide image (WSI) level, and the KNN classifier is utilized to diagnose the lymphoma subtypes of slides. The CLAM and the KNN methods can be found in [CLAM](https://github.com/mahmoodlab/CLAM/tree/master)and the Scikit-learn Python Library.
+Code for the paper "Deep Learning of Histopathological Images Enables Accurate Diagnosis of Lymphoma". This repository mainly contains the source code for lymphoma classification based on deep learning, which is used to extract the features of patch images. Subsequently, the multi-branch clustering-constrained attention multiple instance learning (CLAM) is employed to extract the features at the whole slide image (WSI) level, and the KNN classifier is utilized to diagnose the lymphoma subtypes of slides. The CLAM and the KNN methods can be found in [CLAM](https://github.com/mahmoodlab/CLAM/tree/master)and the Scikit-learn Python Library.
 
 
 
